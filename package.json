@@ -1,0 +1,11 @@
+{
+  "name": "srp6-js",
+  "version": "1.0.0",
+  "description": "A SRP6 auth package, primary made for trinity/azeroth core servers authentication encryption but can be used for anything. Made to be simple, performant and easy to use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "voikyrioh@gmail.com",
+  "license": "MIT"
+}
